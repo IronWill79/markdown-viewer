@@ -1,0 +1,18 @@
+{
+  "name": "markdown-viewer",
+  "version": "0.0.1",
+  "description": "Markdown Editor WebApp",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IronWill79/markdown-viewer.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Will Walsh (IronWill79)",
+  "bugs": {
+    "url": "https://github.com/IronWill79/markdown-viewer/issues"
+  },
+  "homepage": "https://github.com/IronWill79/markdown-viewer#readme"
+}
